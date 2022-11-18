@@ -5,6 +5,8 @@
 1. Description
 
     For this project, I was asked to build a timed coding quiz with multiple-choice questions. 
+2. Link
+https://amymckellar.github.io/quiz-challenge/
 
 2. Layout 
 
